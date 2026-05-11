@@ -1,25 +1,17 @@
 import app from "./app";
 import { logger } from "./lib/logger";
 
-// Use a safe fallback for PORT so the process doesn't crash when PORT is absent.
-// Prefer the environment value when present, otherwise default to 3000.
-const port = Number(process.env.PORT) || 3000;
+const mrs_port = Number(process.env.PORT) || 3000;
 
-if (Number.isNaN(port) || port <= 0) {
+if (Number.isNaN(mrs_port) || mrs_port <= 0) {
   throw new Error(`Invalid PORT value: "${process.env.PORT}"`);
 }
 
-app.listen(
-  {
-    port,
-    host: "0.0.0.0",
-  },
-  (err) => {
-    if (err) {
-      logger.error({ err }, "Error listening on port");
-      process.exit(1);
-    }
+const mrs_server = app.listen(mrs_port, "0.0.0.0", () => {
+  logger.info({ port: mrs_port }, "Server listening on 0.0.0.0");
+});
 
-    logger.info({ port }, "Server listening");
-  },
-);
+mrs_server.on("error", (mrs_err) => {
+  logger.error({ err: mrs_err }, "Error listening on port");
+  process.exit(1);
+});

@@ -35,6 +35,11 @@ app.get("/", (_req, res) => {
   res.status(200).send("SHL Assessment Recommender API running");
 });
 
+// Explicit health route alias for platform health checks
+app.get("/health", (_req, res) => {
+  res.status(200).send("ok");
+});
+
 app.use("/", router);
 
 export default app;

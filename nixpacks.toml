@@ -8,4 +8,4 @@ cmds = ["corepack enable", "pnpm install --frozen-lockfile"]
 cmds = ["pnpm --filter @workspace/api-server run build"]
 
 [start]
-cmd = "pnpm --filter @workspace/api-server run start"
+cmd = "cd artifacts/api-server && pnpm run start"

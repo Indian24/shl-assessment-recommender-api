@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-reasoning-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "Measures the ability to understand and analyse numerical data presented in charts, tables and other numerical formats. Suitable for roles requiring data interpretation and quantitative reasoning.",
+    "keywords": ["numerical", "numbers", "data", "maths", "quantitative", "finance", "analyst", "accountant", "statistics", "reasoning", "cognitive", "ability"]
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-reasoning-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "Measures the ability to understand and evaluate written information, draw correct conclusions and critically appraise arguments. Suitable for roles requiring strong communication and comprehension skills.",
+    "keywords": ["verbal", "reading", "comprehension", "writing", "language", "communication", "graduate", "managerial", "reasoning", "cognitive", "ability"]
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "Measures the ability to identify patterns and relationships in abstract material, and to think conceptually. Assesses potential to solve novel problems and handle change.",
+    "keywords": ["inductive", "abstract", "patterns", "logical", "conceptual", "problem solving", "analytical", "reasoning", "cognitive", "ability", "graduate"]
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "Measures the ability to draw logical conclusions from a set of premises. Assesses structured reasoning and analytical thinking.",
+    "keywords": ["deductive", "logical", "reasoning", "structured", "analytical", "problem solving", "cognitive", "ability"]
+  },
+  {
+    "name": "Verify Learning Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-learning-ability/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "Measures the potential to learn and adapt to new situations, processes and procedures. Suitable for roles that require quick skill acquisition and adaptability.",
+    "keywords": ["learning", "agility", "adaptability", "potential", "growth", "training", "development", "cognitive", "ability"]
+  },
+  {
+    "name": "Verify G+",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-plus/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "A general cognitive ability assessment that measures numerical and verbal reasoning together. Provides a broad measure of intellectual capacity for a wide range of professional and managerial roles.",
+    "keywords": ["general ability", "cognitive", "numerical", "verbal", "graduate", "professional", "managerial", "intellect", "reasoning", "g+"]
+  },
+  {
+    "name": "Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-plus-new/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "An engaging, interactive version of the general cognitive ability test featuring gamified, immersive scenarios. Measures numerical and verbal reasoning in a modern, candidate-friendly format.",
+    "keywords": ["interactive", "gamified", "cognitive", "general ability", "numerical", "verbal", "graduate", "candidate experience", "engagement"]
+  },
+  {
+    "name": "Verify Interactive Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-numerical-reasoning-new/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "An interactive, gamified assessment of numerical reasoning skills. Provides an engaging candidate experience while accurately measuring data analysis and quantitative thinking.",
+    "keywords": ["interactive", "numerical", "data", "quantitative", "gamified", "candidate experience", "cognitive", "reasoning"]
+  },
+  {
+    "name": "Verify Interactive Verbal Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-verbal-reasoning-new/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "An interactive, gamified assessment of verbal reasoning and comprehension. Delivers a modern candidate experience while evaluating written information analysis skills.",
+    "keywords": ["interactive", "verbal", "reading", "comprehension", "gamified", "candidate experience", "cognitive", "reasoning", "language"]
+  },
+  {
+    "name": "Verify Interactive Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-inductive-reasoning-new/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "An interactive, gamified abstract reasoning test measuring pattern recognition and conceptual thinking. Suitable for roles requiring innovation and problem-solving.",
+    "keywords": ["interactive", "inductive", "abstract", "patterns", "gamified", "conceptual", "innovation", "cognitive", "reasoning"]
+  },
+  {
+    "name": "OPQ32r (Occupational Personality Questionnaire)",
+    "url": "https://www.shl.com/products/product-catalog/view/opq32r/",
+    "test_type": "Personality",
+    "category": "Personality Assessments",
+    "description": "A comprehensive occupational personality questionnaire measuring 32 personality characteristics relevant to work performance. Provides insight into how people prefer to work, communicate and manage. Widely used for selection, development and succession planning across all levels.",
+    "keywords": ["personality", "OPQ", "occupational", "behaviour", "behavioral", "managerial", "leadership", "competencies", "work style", "communication", "teamwork", "senior", "professional", "development"]
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mq/",
+    "test_type": "Personality",
+    "category": "Personality Assessments",
+    "description": "Measures 18 dimensions of motivation and what energises or demotivates an individual at work. Helps identify what drives performance and engagement for a given role or environment.",
+    "keywords": ["motivation", "MQ", "engagement", "drives", "values", "incentives", "leadership", "performance", "retention", "culture fit", "personality"]
+  },
+  {
+    "name": "Work Strengths (WSS)",
+    "url": "https://www.shl.com/products/product-catalog/view/work-strengths/",
+    "test_type": "Personality",
+    "category": "Personality Assessments",
+    "description": "A brief personality assessment designed for high-volume hiring of entry-level, frontline and hourly workers. Quickly identifies candidates with the right behavioural strengths for the job.",
+    "keywords": ["personality", "entry-level", "frontline", "hourly", "high volume", "retail", "warehouse", "manufacturing", "customer service", "behavioural", "strengths", "quick"]
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "test_type": "Personality",
+    "category": "Personality Assessments",
+    "description": "Assesses counterproductive work behaviours, including safety attitudes, reliability, honesty and integrity. Designed for high-volume selection for roles where safety and dependability are critical.",
+    "keywords": ["safety", "dependability", "integrity", "reliability", "honesty", "counterproductive", "blue collar", "industrial", "warehouse", "manufacturing", "operations"]
+  },
+  {
+    "name": "Remote Work Q",
+    "url": "https://www.shl.com/products/product-catalog/view/remote-work-q/",
+    "test_type": "Personality",
+    "category": "Personality Assessments",
+    "description": "Assesses an individual's likelihood of success in a remote work environment. Measures key traits such as self-discipline, communication, technology use and ability to work independently.",
+    "keywords": ["remote", "work from home", "virtual", "distributed", "self-discipline", "independent", "technology", "communication", "hybrid"]
+  },
+  {
+    "name": "Universal Competency Framework (UCF)",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework/",
+    "test_type": "Competency",
+    "category": "Behavioral Assessments",
+    "description": "A comprehensive model of work-related competencies that links personality traits to work behaviours. Used to define competency requirements and map assessments to job-relevant behaviours.",
+    "keywords": ["competency", "framework", "behaviours", "UCF", "job analysis", "development", "leadership", "performance", "managerial"]
+  },
+  {
+    "name": "Situational Judgement Test (SJT) - Customer Contact",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-contact-aptitude-series-ccsq7-new/",
+    "test_type": "Situational Judgement",
+    "category": "Behavioral Assessments",
+    "description": "Measures the ability to handle realistic customer service scenarios effectively. Assesses judgement in dealing with customer queries, complaints and challenging situations in contact centre environments.",
+    "keywords": ["situational judgement", "SJT", "customer service", "contact centre", "call centre", "customer contact", "scenarios", "judgement", "service", "frontline"]
+  },
+  {
+    "name": "Scenarios - Leadership Judgement",
+    "url": "https://www.shl.com/products/product-catalog/view/scenarios-leadership-judgement/",
+    "test_type": "Situational Judgement",
+    "category": "Behavioral Assessments",
+    "description": "A situational judgement test that presents realistic leadership dilemmas to assess managerial decision-making, people management and leadership effectiveness.",
+    "keywords": ["leadership", "managerial", "situational judgement", "SJT", "management", "decision making", "people management", "senior", "director"]
+  },
+  {
+    "name": "Coding Simulation - Java",
+    "url": "https://www.shl.com/products/product-catalog/view/java-8/",
+    "test_type": "Simulation",
+    "category": "Skills & Simulations",
+    "description": "A hands-on coding simulation that assesses Java programming skills in realistic development scenarios. Tests object-oriented programming, algorithms and problem-solving in Java.",
+    "keywords": ["java", "coding", "programming", "software", "developer", "engineer", "technical", "OOP", "backend", "simulation"]
+  },
+  {
+    "name": "Coding Simulation - Python",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "test_type": "Simulation",
+    "category": "Skills & Simulations",
+    "description": "A practical coding simulation assessing Python programming proficiency. Tests data manipulation, algorithms, scripting and general Python problem-solving.",
+    "keywords": ["python", "coding", "programming", "software", "developer", "data science", "scripting", "technical", "simulation", "backend", "engineer"]
+  },
+  {
+    "name": "Coding Simulation - JavaScript",
+    "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "test_type": "Simulation",
+    "category": "Skills & Simulations",
+    "description": "A coding simulation measuring JavaScript programming skills including DOM manipulation, asynchronous programming, and modern ES6+ features.",
+    "keywords": ["javascript", "js", "coding", "frontend", "web", "developer", "software", "technical", "simulation", "engineer"]
+  },
+  {
+    "name": "Coding Simulation - SQL",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "test_type": "Simulation",
+    "category": "Skills & Simulations",
+    "description": "Tests SQL query writing, database design and data retrieval skills through hands-on exercises with realistic database schemas.",
+    "keywords": ["SQL", "database", "query", "data", "analytics", "developer", "technical", "DBA", "data analyst", "simulation"]
+  },
+  {
+    "name": "Coding Simulation - .NET (C#)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "test_type": "Simulation",
+    "category": "Skills & Simulations",
+    "description": "Evaluates .NET and C# programming skills through realistic development scenarios. Covers object-oriented programming, framework usage and problem-solving.",
+    "keywords": [".net", "csharp", "C#", "dotnet", "coding", "developer", "software", "Microsoft", "backend", "technical", "simulation"]
+  },
+  {
+    "name": "Call Center Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/call-center-simulation/",
+    "test_type": "Simulation",
+    "category": "Skills & Simulations",
+    "description": "An immersive call centre simulation measuring multitasking ability, customer interaction quality, data entry and call handling in a realistic agent environment.",
+    "keywords": ["call centre", "call center", "simulation", "customer service", "contact centre", "multitasking", "data entry", "agent", "service", "telephony"]
+  },
+  {
+    "name": "Numerical Reasoning - Graduate",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-8-0-numerical-reasoning-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "A numerical reasoning assessment calibrated for graduate-level roles. Tests data interpretation, statistical reasoning and quantitative analysis relevant to early-career professional positions.",
+    "keywords": ["graduate", "numerical", "data", "quantitative", "reasoning", "cognitive", "early career", "entry level professional", "analyst"]
+  },
+  {
+    "name": "Verbal Reasoning - Graduate",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-8-0-verbal-reasoning-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "A verbal reasoning assessment calibrated for graduate-level roles. Tests reading comprehension, critical evaluation of text and logical argument assessment.",
+    "keywords": ["graduate", "verbal", "reading", "comprehension", "reasoning", "cognitive", "early career", "entry level professional"]
+  },
+  {
+    "name": "Mechanical Comprehension",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-comprehension-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "Assesses understanding of mechanical and physical principles such as force, levers, pulleys and hydraulics. Suitable for technical, engineering and skilled trade roles.",
+    "keywords": ["mechanical", "engineering", "technical", "physics", "forces", "trade", "technician", "skilled trade", "manufacturing", "industrial"]
+  },
+  {
+    "name": "Checking",
+    "url": "https://www.shl.com/products/product-catalog/view/checking-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "Measures speed and accuracy in checking names, numbers and codes for errors. Ideal for clerical, administrative and data entry roles.",
+    "keywords": ["clerical", "administrative", "checking", "accuracy", "speed", "data entry", "attention to detail", "office", "proofreading"]
+  },
+  {
+    "name": "Calculation",
+    "url": "https://www.shl.com/products/product-catalog/view/calculation-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "Tests the ability to perform basic arithmetic calculations accurately and quickly. Suitable for roles involving routine numerical tasks such as billing, cashiering and bookkeeping.",
+    "keywords": ["calculation", "arithmetic", "numerical", "cashier", "billing", "bookkeeping", "clerical", "entry level", "maths", "speed"]
+  },
+  {
+    "name": "Spatial Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/spatial-reasoning-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "Assesses the ability to visualise and mentally manipulate two and three-dimensional shapes. Relevant for engineering, design, architecture and technical roles.",
+    "keywords": ["spatial", "shapes", "3D", "design", "engineering", "architecture", "technical", "visual", "reasoning", "cognitive"]
+  },
+  {
+    "name": "Diagrammatic Thinking",
+    "url": "https://www.shl.com/products/product-catalog/view/diagrammatic-thinking-test/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "Measures the ability to follow complex processes described in diagrams and flowcharts. Assesses logical processing ability often required in technology and systems roles.",
+    "keywords": ["diagrammatic", "logical", "flowchart", "process", "systems", "technology", "IT", "technical", "analytical", "reasoning"]
+  },
+  {
+    "name": "Personality Questionnaire - 32 (OPQ32n)",
+    "url": "https://www.shl.com/products/product-catalog/view/opq32n/",
+    "test_type": "Personality",
+    "category": "Personality Assessments",
+    "description": "The normative version of the OPQ32 that measures 32 personality characteristics. Provides rich personality profiles for development, leadership assessment and talent management purposes.",
+    "keywords": ["personality", "OPQ", "normative", "development", "leadership", "talent", "management", "professional", "senior", "behaviour"]
+  },
+  {
+    "name": "Graduate/Managerial Assessment (GMA)",
+    "url": "https://www.shl.com/products/product-catalog/view/gma-graduate-and-managerial-assessment/",
+    "test_type": "Cognitive",
+    "category": "Cognitive Assessments",
+    "description": "A combined measure of verbal, numerical and abstract reasoning designed for graduate and managerial selection. Provides a comprehensive assessment of general mental ability in one test.",
+    "keywords": ["graduate", "managerial", "GMA", "cognitive", "general ability", "verbal", "numerical", "abstract", "professional", "leadership", "senior"]
+  },
+  {
+    "name": "Business Skills Assessment - Microsoft Excel",
+    "url": "https://www.shl.com/products/product-catalog/view/excel-2016-new/",
+    "test_type": "Simulation",
+    "category": "Skills & Simulations",
+    "description": "A hands-on simulation of Microsoft Excel tasks covering formulas, data analysis, pivot tables and reporting. Suitable for administrative, financial and analyst roles.",
+    "keywords": ["Excel", "Microsoft", "spreadsheet", "data", "financial", "analyst", "administrative", "skills", "simulation", "office"]
+  },
+  {
+    "name": "Business Skills Assessment - Microsoft Word",
+    "url": "https://www.shl.com/products/product-catalog/view/word-2016-new/",
+    "test_type": "Simulation",
+    "category": "Skills & Simulations",
+    "description": "Simulates Microsoft Word tasks including document formatting, editing, mail merge and professional document creation. Suitable for administrative and secretarial roles.",
+    "keywords": ["Word", "Microsoft", "document", "writing", "administrative", "clerical", "secretary", "skills", "simulation", "office"]
+  },
+  {
+    "name": "Accounts Payable Test",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "test_type": "Knowledge & Skills",
+    "category": "Skills & Simulations",
+    "description": "Assesses knowledge and application of accounts payable processes, including invoice processing, payment procedures and financial record keeping.",
+    "keywords": ["accounts payable", "accounting", "finance", "invoices", "payments", "bookkeeping", "clerical", "financial"]
+  },
+  {
+    "name": "Accounts Receivable Test",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "test_type": "Knowledge & Skills",
+    "category": "Skills & Simulations",
+    "description": "Measures knowledge of accounts receivable processes including billing, collections and customer account management.",
+    "keywords": ["accounts receivable", "accounting", "billing", "collections", "finance", "clerical", "financial", "customer accounts"]
+  },
+  {
+    "name": "Language Assessment - Business English",
+    "url": "https://www.shl.com/products/product-catalog/view/business-english-skills-test/",
+    "test_type": "Knowledge & Skills",
+    "category": "Skills & Simulations",
+    "description": "Evaluates business English proficiency including reading comprehension, grammar, vocabulary and written communication in a professional context.",
+    "keywords": ["English", "language", "communication", "grammar", "writing", "proficiency", "business communication", "international", "multilingual"]
+  }
+]

@@ -1,0 +1,138 @@
+You are a senior backend engineer.
+
+I have a fully working FastAPI backend for an SHL Assessment Recommender.
+
+Your task is to prepare this project for clean deployment on Replit.
+
+========================
+PROJECT CONTEXT
+========================
+
+- Backend: FastAPI
+- Endpoints:
+  GET /api/health
+  POST /api/chat
+
+- Stateless API (conversation history sent in request)
+- Uses:
+  - retrieval (TF-IDF or keyword match)
+  - rule-based intent classification
+  - optional LLM (OpenAI)
+
+- NO frontend
+- NO lovable
+- NO tanstack
+- NO vite
+
+========================
+STEP 1: CLEAN PROJECT
+========================
+
+Ensure ONLY these files exist:
+
+- app.py
+- requirements.txt
+- .env (optional)
+- README.md
+- catalog.json (or dataset file)
+
+Remove:
+- node_modules
+- package.json
+- any TypeScript or React files
+- scripts unrelated to backend
+
+========================
+STEP 2: REQUIREMENTS
+========================
+
+Ensure requirements.txt contains:
+
+fastapi
+uvicorn
+python-dotenv
+scikit-learn
+
+(optional if using LLM)
+openai
+
+========================
+STEP 3: FIX SERVER ENTRY
+========================
+
+Ensure app.py has:
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
+
+========================
+STEP 4: REPLIT CONFIG
+========================
+
+Create a .replit file:
+
+run = "uvicorn app:app --host=0.0.0.0 --port=8000"
+
+========================
+STEP 5: ENV VARIABLES
+========================
+
+If using OpenAI:
+
+Create .env.example:
+
+OPENAI_API_KEY=your_key_here
+
+DO NOT include:
+- LOVABLE_API_KEY
+- any lovable references
+
+========================
+STEP 6: HEALTH CHECK
+========================
+
+Ensure:
+
+GET /api/health → {"status": "ok"}
+
+========================
+STEP 7: TEST CHAT
+========================
+
+POST /api/chat
+
+Request:
+{
+  "messages": [
+    {"role": "user", "content": "I need a Java developer test"}
+  ]
+}
+
+Response:
+{
+  "reply": "...",
+  "recommendations": [...],
+  "end_of_conversation": false
+}
+
+========================
+STEP 8: README
+========================
+
+Write a clean README with:
+
+- how to run locally
+- how to deploy on Replit
+- API usage examples
+
+========================
+GOAL
+========================
+
+A clean, backend-only FastAPI project that runs instantly on Replit with:
+
+▶ no frontend
+▶ no broken dependencies
+▶ no lovable references
+▶ production-ready structure

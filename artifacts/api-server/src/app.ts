@@ -25,9 +25,15 @@ app.use(
     },
   }),
 );
+
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+// Debug root route for Railway health check
+app.get("/", (_req, res) => {
+  res.status(200).send("SHL Assessment Recommender API running");
+});
 
 app.use("/", router);
 
